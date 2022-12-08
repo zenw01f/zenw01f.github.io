@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zenw01f"
+  name   : "Asena Security"
   avatar : "/assets/images/AsenaLogo1.png"
   bio    : "Random musings on my journey as a cybersecurity professional and learned lessons in finance."
   links:
