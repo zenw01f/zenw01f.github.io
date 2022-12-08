@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Asena Security"
   avatar : "/assets/images/AsenaLogo1.png"
-  bio    : "Random musings on my journey as a cybersecurity professional and learned lessons in finance."
+  bio    : ""
   links:
     - label: "My Knowledgebase"
       icon: "fas fa-fw fa-link"
