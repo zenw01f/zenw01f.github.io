@@ -11,5 +11,3 @@ I've been meaning to create a series on this for a while now. After talking to o
 In the first of these series I will talk about the corporate issues that are stacked against low wage earners. Wage theft is one of the most egregious corporate ways that companies save millions of dollars but deny workers their full pay. 
 
 My other series will touch upon financial instruments which are stacked against the poor; high interest rates, BNPL, the inability to chose between renting property for a dwelling or buying "good" property, 
-
-```
