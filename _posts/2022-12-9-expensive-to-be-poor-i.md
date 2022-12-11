@@ -4,6 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Finance
 tags:
+toc: true
+toc_label: "Part 1 Subcontents"
+toc_icon: "cog"
 ---
 
 I've been meaning to create a series on this for a while now. After talking to other financially saavy friends and colleagues about how we are lucky to have the means to play in the stock market, ride the swings and capitalize on the ability to garner the lowest mortgage rates with credit scores over 800, multiple credit cards, earning lots of points, etc it was about time to start my blog on how the poor not only don't have the privileges we have but how much more exponentially expensive it is not to have money or a good credit score.
