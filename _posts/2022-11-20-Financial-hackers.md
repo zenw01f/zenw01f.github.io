@@ -2,6 +2,7 @@
 title: "Who are The Hackers of the Financial World?"
 excerpt_separator: "<!--more-->"
 layout: splash
+permalink: /home/
 categories:
   - Finance
 tags:
