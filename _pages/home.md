@@ -22,7 +22,7 @@ feature_row:
     url: "/tags/#banks"
     btn_class: "btn--primary"
     btn_label: "Read The Stories"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.png
+  - image_path: /assets/images/AsenaLogo1.png
     alt: ""
     title: "My Cybersecurity Journey"
     excerpt: "My cybersecurity blog for both the layman and professionals"
