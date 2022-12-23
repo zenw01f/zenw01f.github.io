@@ -5,8 +5,8 @@ last_modified_at: 2022-12-22T20:48:00-08:00
 categories:
 tags:
 toc: true
-toc_label: "Part 2 Contents"
-toc_icon: "cog"
+toc_label: 
+toc_icon: 
 ---
 
 # Using .notice with different box colors
