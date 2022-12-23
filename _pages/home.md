@@ -1,4 +1,5 @@
 ---
+title: "Asena Security"
 layout: splash
 permalink: /
 hidden: true
