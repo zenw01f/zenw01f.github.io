@@ -1,6 +1,7 @@
 ---
 title: "Why is poor cybersecurity hygiene so rampant?"
 excerpt_separator: "<!--more-->"
+layout: splash
 categories:
   - Cybersecurity
 tags:
