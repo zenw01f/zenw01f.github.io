@@ -1,7 +1,7 @@
 ---
 title: "Sample add'l layout"
 excerpt_separator: "<!--more-->"
-classes: wide
+layout: splash
 categories:
 tags:
 toc: true
