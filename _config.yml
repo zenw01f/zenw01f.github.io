@@ -21,6 +21,7 @@ twitter_username: zenw01f
 github_username: zenw01f
 minimal_mistakes_skin: dark
 search: true
+logo: "/assets/images/AsenaLogo1.png"
 
 # Build settings
 markdown: kramdown

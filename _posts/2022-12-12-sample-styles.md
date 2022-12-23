@@ -9,11 +9,22 @@ toc_label: "Part 2 Contents"
 toc_icon: "cog"
 ---
 
-**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+# Using .notice with different box colors
+## Notice box with --info
+**INFO:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
 {: .notice--info}
 
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
+## Notice box with --warning
+**WARNING:** putting a single backticks will yeild: `Unknown tag 'include_cached'` 
 {: .notice--warning}
+
+## Notice box with --danger
+**DANGER:** putting a single backticks will yeild: `Unknown tag 'include_cached'` 
+{: .notice--danger}
+
+# Code Boxes
+using 3 ticks "```" to start and end a code box.
+put the code type after the first set of ticks for syntax highlighting
 
 ```python
 import os
