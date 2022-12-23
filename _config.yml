@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Asena Security"
+  name   : "Blog by zenw01f"
   avatar : "/assets/images/AsenaLogo1.png"
   bio    : ""
   links:
@@ -93,6 +93,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
