@@ -22,6 +22,10 @@ toc_icon: "cog"
 **DANGER:** putting a single backticks will yeild: `Unknown tag 'include_cached'` 
 {: .notice--danger}
 
+## Other types
+### --success
+### --primary
+
 # Code Boxes
 using 3 ticks "```" to start and end a code box.
 put the code type after the first set of ticks for syntax highlighting
