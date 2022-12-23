@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ""
+title: 
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   "Cybersecurity and Finance Blog"
@@ -21,7 +21,7 @@ twitter_username: zenw01f
 github_username: zenw01f
 minimal_mistakes_skin: dark
 search: true
-logo: "/assets/images/AsenaLogoTransWhite.png"
+logo: "/assets/images/AsenaSquareLogoTrans.png"
 
 # Build settings
 markdown: kramdown
