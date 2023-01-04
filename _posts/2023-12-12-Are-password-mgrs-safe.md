@@ -16,4 +16,4 @@ I've been a proponent of password managers for many years and have constantly be
 - Integrated 2FA TOTP
 - Web browser modules for auto-input and site validation
 
-Although the [LastPass breach](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal) was probably the worst people feared the issue is _not_ with the concept of a password vault in the cloud but rather the poor
+Although the [LastPass breach](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal) was probably the worst people feared the issue is _not_ with the concept of a password vault in the cloud but rather the execution of the application by the vendor which failed. Until the death of the password comes about there really is no better way to store credentials _that is user friendly_.
