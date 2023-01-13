@@ -19,4 +19,5 @@ My other series will touch upon financial instruments which are stacked against 
 ## Is This Another How-To Blog?
 In short - no. There are plenty of blogs that tell you how to become more fiscally mindful and those written by people who are financial planners, accountants etc. I'm simply expressing my observations with, of course, my opinions.
 
-# It's About Psychology
+# This is more about psychology
+As a cybersecurity professional I enjoy the social engineering aspect of 
