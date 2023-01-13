@@ -12,6 +12,6 @@ I've never had this happen to me however it's a common set of events. Your compu
 
 ![WannaCrypt Ransomware][ransomware]
 
-There's been one eas
+There's been one easy
 
 [ransomware]: /assets/images/ransomware-sample-image.jpg
