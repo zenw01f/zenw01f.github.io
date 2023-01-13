@@ -9,7 +9,7 @@ header:
 excerpt: >
   A Cybersecurity and Financial Blog
 feature_row:
-  - image_path: /assets/images/Financial-small.png
+  - image_path: /assets/images/FInancial-small.png
     alt: ""
     title: "My Financial Journey"
     excerpt: "Lessons and learnings in personal finance as a someone who hated finance but learned to like it."
