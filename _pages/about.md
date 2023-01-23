@@ -9,4 +9,4 @@ The psychology of how laypeople perceive cybersecurity along with the misconcept
 
 The articles in this space are strictly my own opinions, research and knowledge derived from my work within financial companies and the cybersecurity realm. Nothing said here reflects my current or past companies opinions, stance or reflection as an employer.
 
-I've started my career in IT as a technician barely knowing anything about computers. 
+I've started my career in IT as a technician barely knowing anything about computers working at my university in between classes building and repairing Zenith 286 PC's with 15-20 Megabyte hard drives. I fostered my Novell netwoking skills and from there it launched 
