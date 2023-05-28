@@ -18,21 +18,25 @@ For now, this is my ongoing compiled list of GPT sites that I've curated for mys
 # General Topics
 ## Vacation Chatbot
 This travel-focused chat agent is designed to help you plan a custom trip, give you inspiration on where to go, and even suggest local hotels, restaurants, and attractions.
-https://www.usevacay.com/chatbot
+
+[Vacay](https://www.usevacay.com/chatbot)
 
 ## Private GPT Document Reader
 Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection.
-https://github.com/imartinez/privateGPT
+
+[PrivateGPT](https://github.com/imartinez/privateGPT)
 
 # Prompt Engineering
 ## Awesome ChatGPT Prompts
 Understanding and knowing how to prompt is key to narrowing down questions for optimum answers with less "hallucination" or for results that could be off topic / incorrect.
-https://github.com/f/awesome-chatgpt-prompts
+
+[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 
 # Programming Assistance
 ## Shell GPT
 Don't know how to write in bash? Need help deciphering CLI Commands? This chatbot could help.
-https://github.com/TheR1D/shell_gpt
+
+[ShellGPT](https://github.com/TheR1D/shell_gpt)
 
 
