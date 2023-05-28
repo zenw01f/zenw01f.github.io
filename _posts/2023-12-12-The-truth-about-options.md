@@ -14,3 +14,7 @@ A Call is essentially a representation on a position of purchasing a stock. When
 Puts are the opposite. In essence it is the cash equivalent of the stock being represented. To buy a Put on a stock means you are reserving the right to sell the cash equivalent of the stock at the strike price. Puts can be harder to grasp as it involves not actually owning the equity.
 ## Why Only Sell Covered Calls?
 As mentioned earlier, covered calls are the lowest risk of all the options to exercise. For selling calls you already own the stock (specifically covered calls) and your worst case scenario is that you are required to sell the stock at a lower price than what the current market value is. However there are additional benefits such as if the equity you are selling options on happens to earn a dividend and you still own that stock during the period in which you've sold a covered call you get to keep the funds earned by those dividends.
+
+## What I've learned about the equities I sell covered calls on:
+Not all equities are alike and some will ebb and flow with how much popularity there is on those calls. When looking for equities there are several components 
+*How much volume are the options trading at 
