@@ -17,4 +17,5 @@ As mentioned earlier, covered calls are the lowest risk of all the options to ex
 
 ## What I've learned about the equities I sell covered calls on:
 Not all equities are alike and some will ebb and flow with how much popularity there is on those calls. When looking for equities there are several components 
-*How much volume are the options trading at 
+*What is the volume on the options? (Note: This is NOT the same as the volume on the equity itself)
+*What is the 
