@@ -20,4 +20,4 @@ My other series will touch upon financial instruments which are stacked against 
 In short - no. There are plenty of blogs that tell you how to become more fiscally mindful and those written by people who are financial planners, accountants etc. I'm simply expressing my observations with, of course, my opinions.
 
 # This is more about psychology
-As a cybersecurity professional I enjoy the social engineering aspect of 
+As a cybersecurity professional I enjoy the social engineering aspect of the profession. The majority of ways people get hacked (or even how hackers get caught) is all about how they feel and the emotions that are elicited. For example phishing emails typically have a tone associated with it to create 

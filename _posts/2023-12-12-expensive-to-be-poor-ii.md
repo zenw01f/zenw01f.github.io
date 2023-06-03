@@ -10,6 +10,7 @@ toc_icon: "cog"
 ---
 
 # The poor psychology
+When it comes to finances the thought processes to when you have no money, when you have enough money and when you have too much money are much different. Not to mention what you do and don't have access to. 
 
 ## Being emotional about money
 
