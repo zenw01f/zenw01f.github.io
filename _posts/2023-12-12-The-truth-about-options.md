@@ -19,3 +19,7 @@ As mentioned earlier, covered calls are the lowest risk of all the options to ex
 Not all equities are alike and some will ebb and flow with how much popularity there is on those calls. When looking for equities there are several components 
 *What is the volume on the options? (Note: This is NOT the same as the volume on the equity itself)
 *What is the 
+*When the market is on a bull run not covering your upside can be a loss in profts
+*Don't panic when selling options. Think as if you would have sold the stock at that price point instead
+
+## 
