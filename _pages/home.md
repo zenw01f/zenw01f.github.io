@@ -7,15 +7,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
 excerpt: >
-  A Cybersecurity and Financial Blog
+  A Cybersecurity Blog
 feature_row:
-  - image_path: /assets/images/Financial-small.jpg
-    alt: ""
-    title: "My Financial Journey"
-    excerpt: "Lessons and learnings in personal finance as a someone who hated finance but learned to like it."
-    url: "/categories/#finance"
-    btn_class: "btn--primary"
-    btn_label: "Financial Blog"
   - image_path: /assets/images/office-bldg.jpg
     alt: ""
     title: "Stories From My Career"
