@@ -38,6 +38,9 @@ Starting with a "Learn the basics":
   
 ### Next - Systems Administration
 What is this job all about?
+Here's what AI says:
+A systems administrator is responsible for the day-to-day operation, configuration, and maintenance of an organization's IT infrastructure, ensuring that servers, workstations, and core services remain available, secure, and performing optimally. This includes managing user accounts and access permissions, applying software updates and patches, monitoring system health, troubleshooting hardware and software issues, maintaining backups, and enforcing security policies — all while supporting end users and keeping the business running with minimal disruption.
+
 - All of the above - Understanding PCs, systems
 - IAM (Identity Access Management)
   - E.g. Active Directory
