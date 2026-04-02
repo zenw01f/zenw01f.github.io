@@ -9,11 +9,13 @@ tags:
 ---
 
 ## Where Do I Start?
+First you need FOCUS! Next you need patience :) Don't worry! You'll get there.
 
 ### Starting in IT
 Let's start with what you know. 
 - Basic training (IT Works)
 - Home Lab, play equipment
+- 
 
 ### Where do you want to end up?
 Cybersecurity Analyst SOC
@@ -50,6 +52,13 @@ A systems administrator is responsible for the day-to-day operation, configurati
 - Basic networking
 - Server security
 - File sharing
-- Understaning Enterprise email
+- Understanding Enterprise email
 - DNS
-- 
+- Backups
+- Application / Software installation, configuration and management
+- Operating System and hardware tuning
+
+### Now What About Security?
+Let's start with just the ground floor - Security Incident Analyst
+
+
