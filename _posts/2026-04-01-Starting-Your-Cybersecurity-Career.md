@@ -36,4 +36,17 @@ Starting with a "Learn the basics":
   - Hard drive / storage management (formatting, etc)
   - Security
   
-
+### Next - Systems Administration
+What is this job all about?
+- All of the above - Understanding PCs, systems
+- IAM (Identity Access Management)
+  - E.g. Active Directory
+  - MFA
+  - User/Group Management
+  - Application access control
+- Basic networking
+- Server security
+- File sharing
+- Understaning Enterprise email
+- DNS
+- 
