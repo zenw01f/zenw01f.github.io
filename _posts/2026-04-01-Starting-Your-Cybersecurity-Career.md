@@ -20,14 +20,20 @@ Cybersecurity Analyst SOC
 
 ### Where do you go first?
 Starting with a "Learn the basics":
-- Understanding the Windows Operating System
-- Understanding how PC Hardware works - Learn the components:
+
+1. Understanding the Windows Operating System
+2.  Understanding how PC Hardware works - Learn the components:
   - Graphics Card
   - USB
   - Audio
   - Memory
   - CPU
   - Storage
-- How do you manage / administrate Windows
-  - 
+3.  How do you manage / administrate Windows
+  - Processes
+  - Drivers
+  - File system
+  - Hard drive / storage management (formatting, etc)
+  - Security
+  
 
