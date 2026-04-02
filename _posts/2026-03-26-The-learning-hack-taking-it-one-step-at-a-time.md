@@ -1,5 +1,5 @@
 ---
-title: "The learning hack - taking it one step at a time"
+title: "The Learning Hack - Taking It One Step at a Time"
 excerpt_separator: "<!--more-->"
 classes: wide
 categories:
@@ -8,7 +8,7 @@ tags:
   - mentoring
 ---
 
-# Learning New Concepts
+## Learning New Concepts
 
 This article is not so much about teaching you the *how* of hacking but rather the approach to learning any kind of cybersecurity concept, tool or system. Having a goal, taking things one step at a time and in smaller chunks will help with ensuring you're not feeling overwhelmed and spinning your wheels trying to take hard concepts and trying to walk backwards - or "reverse engineering" - your learning. Don't worry, there's plenty of time for learning reverse engineering...
 
