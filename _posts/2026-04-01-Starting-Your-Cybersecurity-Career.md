@@ -24,13 +24,9 @@ The SOC operates across tiers:
 
 Your goal right now is simply to get to Tier 1. Everything in this guide is focused on that mission.
 
----
-
 ## The Foundation You're Already Building — The Help Desk Years
 
 Here is what you should be learning and absorbing every single day while you work your current IT role — and what you should be building on your own time in parallel.
-
----
 
 ### Windows Operating System Mastery
 
@@ -149,7 +145,6 @@ Ticketing systems like ServiceNow, Jira, and Remedy are standard in enterprise e
 ---
 
 The breadth of this foundational knowledge may feel overwhelming at first glance, and that's a completely normal reaction. The key insight is this: you are not expected to master all of it before your first SOC role. You are expected to show consistent, demonstrable progress across these domains. Employers hiring Tier 1 analysts are not looking for finished experts — they are looking for motivated learners who have built enough of a foundation to be effective on day one and who show clear evidence of the drive to keep growing. Every hour you invest in these areas while working your help desk role is compounding toward that goal.
----
 
 ## The Technical Core of the SOC — SIEM and the Tools of the Trade
 
@@ -175,8 +170,6 @@ An **EDR (Endpoint Detection and Response)** tool monitors individual computers 
 
 **Ticketing and case management systems** like ServiceNow or Jira are used to document incidents, track investigations, and manage workflow. If you're using a ticketing system at the help desk right now, you're already building a relevant habit.
 
----
-
 ## The Security Concepts You Must Own
 
 Technical tools are only as useful as the conceptual framework you bring to them. Here are the core security concepts that separate analysts who thrive from those who struggle:
@@ -192,8 +185,6 @@ Technical tools are only as useful as the conceptual framework you bring to them
 **Malware awareness** — you don't need to be a reverse engineer at the Tier 1 level, but you need to understand the major categories of malicious software (ransomware, trojans, rootkits, keyloggers, spyware, adware, worms), common delivery mechanisms (phishing attachments, malicious macros, drive-by downloads), and behavioral indicators that suggest malware infection (unusual outbound connections, new persistence mechanisms in startup locations, high CPU/memory usage by unknown processes).
 
 **Networking security concepts** including understanding firewall rules, network segmentation, DMZs, VPNs, and how attackers use tools like port scanners and packet analyzers round out your conceptual toolkit.
-
----
 
 ## Building Skills Outside of Work — The Home Lab and Free Training Platforms
 
@@ -211,8 +202,6 @@ Your employer will teach you their tools. But the habits and skills that will se
 
 **The MITRE ATT&CK website** itself is a free and inexhaustible learning resource. Pick a technique, read the description, look at the real-world examples, and follow the references. Do this for 20 minutes a day.
 
----
-
 ## Soft Skills — The Ones Nobody Talks About But Employers Always Notice
 
 Every SOC analyst job posting, without exception, lists these qualities alongside the technical requirements. They are not soft in any dismissive sense — they are genuinely difficult skills that take intentional development.
@@ -226,8 +215,6 @@ Every SOC analyst job posting, without exception, lists these qualities alongsid
 **Composure under pressure** — SOC environments can be intense, particularly during active incidents. The N-able job posting specifically called for someone who is "calm and dependable under high-pressure situations." Work on developing this. It's more valuable than many technical skills.
 
 **Shift flexibility** — real SOC work often means 24/7 coverage. The entry-level Huntsville SOC job posting required availability for overnight and weekend shifts. Being willing to work those shifts when others aren't is how many analysts break into the field faster than their peers.
-
----
 
 ## Your Phased Learning Plan — Month by Month
 
@@ -245,8 +232,6 @@ This is where you become legitimately competitive for Tier 1 roles. Begin CySA+ 
 **Phase 4 — Landing and Thriving in Your First SOC Role (Months 18–24 and beyond)**
 Once you're in your first SOC role, the real education begins. Approach every shift as a learning opportunity, not just a job. Build relationships with Tier 2 and Tier 3 analysts — ask questions, shadow investigations when you can, and make yourself known as someone hungry to grow. Pursue the Microsoft SC-200 while working in the role, especially if your organization uses Microsoft Sentinel. Document your work: keep notes on interesting incidents, attack patterns you've observed, and techniques you've learned. This documentation becomes the foundation of your Tier 2 interview answers in a year or two.
 
----
-
 ## What Employers Are Actually Looking for Right Now
 
 On the technical side, the recurring requirements are experience with SIEM platforms (Splunk, Microsoft Sentinel, QRadar, Elastic), understanding of networking and how to analyze traffic, familiarity with EDR tools (CrowdStrike, Microsoft Defender), knowledge of Windows operating systems and log analysis, and awareness of common threats and attack vectors. The Adobe CSIRT posting specifically noted "familiarity with security technologies such as SIEM platforms, IDS/IPS, and endpoint detection and response tools" alongside "knowledge of common cyber threats, attack vectors, and adversary tactics."
@@ -256,8 +241,6 @@ On the certification side, Security+ appears most frequently, followed by CySA+.
 On the experience side, entry-level postings accept prior work in a NOC (Network Operations Center), helpdesk, CIRT, or SOC environment. The key phrase in the MAD Security entry-level posting is telling: prior experience in a SOC, NOC, or CIRT "is a plus" — meaning your help desk experience counts, especially if you can frame it in security-adjacent terms. For mid-level roles (SOC Analyst II), employers typically want three to six years of experience, proficiency across multiple SIEM platforms, and solid incident response methodology.
 
 On the character side, "analytical and detail-oriented," "intellectual curiosity," "passion for continuous learning," "strong written and verbal communication," and "calm under pressure" appear across virtually every posting.
-
----
 
 ## Your Certification Roadmap
 
@@ -279,8 +262,6 @@ Certifications are the currency of the cybersecurity job market, especially befo
 
 A note on the OSCP (Offensive Security Certified Professional): while this red-team/penetration testing certification is prestigious and widely known, it is not the right goal for the SOC/defensive analyst path you're pursuing. Focus on the blue team certifications above first. Offensive skills become relevant later, particularly if you pivot toward threat hunting or a purple team role.
 
----
-
 ## Career Trajectory and What Comes After the SOC
 
 Here is what your career can look like after two to four years of solid SOC experience:
@@ -294,8 +275,6 @@ Here is what your career can look like after two to four years of solid SOC expe
 **Security Engineer / Detection Engineer** — building and maintaining the SIEM rules, detection logic, and security tooling that the SOC runs on. This path suits those who enjoy building systems as much as using them.
 
 **Cloud Security Engineer** — as enterprises migrate to Azure and AWS, cloud security expertise is commanding premium salaries. Several current senior-level postings list $100,000 to $193,000 annual salaries.
-
----
 
 ## Closing Thoughts: The Mindset That Will Carry You Through
 
