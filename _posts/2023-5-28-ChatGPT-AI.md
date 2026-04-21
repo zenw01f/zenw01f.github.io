@@ -11,8 +11,10 @@ toc_icon: "cog"
 ---
 # Why This List?
 
-With all the talk of how great ChatGPT and AGI (Artificial General Intelligence) is as well as the cautions surrounding it those of us in Cybersecurity can't ignore it. This is the time to both embrace and educate the community about the capabilities & opportunties LLM (Large Language Models) can provide. 
+With all the talk of how great ChatGPT and AGI (Artificial General Intelligence) is as well as the cautions surrounding it those of us in Cybersecurity can't ignore it. This is the time to both embrace and educate the community about the capabilities & opportunties LLM (Large Language Models) can provide.
+
 When it comes to any technology there will always be the people who will use it for the greater good of humans and society, others who will profit off of it and of course those that will find nefarious uses.
+
 For now, this is my ongoing compiled list of GPT sites that I've curated for myself. It is by no means a comprehensive list but it's what I found that I choose to share and archive:
 
 # General Topics
