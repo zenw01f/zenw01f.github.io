@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Home Page Concept – Asena Security</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  :root{
+    --bg: #252a34;
+    --bg-darker: #1b1f27;
+    --footer-bg: #14171d;
+    --text: #eaeaea;
+    --muted: #9a9fa8;
+    --accent: #00adb5;
+    --accent-bright: #4fd9d6;
+    --border: #3a4150;
+    --card-bg: #2c323f;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    line-height:1.6;
+  }
+  a{color:var(--accent-bright); text-decoration:none;}
+  a:hover{color:#fff; text-decoration:underline;}
+
+  .concept-banner{
+    background:#3a2f00;
+    color:#ffd866;
+    text-align:center;
+    font-size:0.85rem;
+    padding:8px 12px;
+    border-bottom:1px solid #5a4a00;
+  }
+
+  header.site-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    max-width:900px;
+    margin:0 auto;
+    padding:28px 24px 18px;
+    border-bottom:1px solid var(--border);
+  }
+  .brand{
+    display:flex;
+    align-items:center;
+  }
+  .brand img{
+    max-height:4.6rem;
+    width:auto;
+    display:block;
+  }
+  nav.site-nav a{
+    margin-left:22px;
+    color:var(--muted);
+    font-size:0.92rem;
+  }
+  nav.site-nav a:hover{color:var(--accent-bright);}
+
+  .hero{
+    max-width:900px;
+    margin:0 auto;
+    padding:64px 24px 48px;
+  }
+  .hero h1{
+    font-size:2.4rem;
+    margin:0 0 14px;
+    line-height:1.2;
+  }
+  .hero p.tagline{
+    font-size:1.2rem;
+    color:var(--muted);
+    margin:0 0 22px;
+    max-width:620px;
+  }
+  .hero p.mission{
+    max-width:600px;
+    color:var(--text);
+    margin:0 0 28px;
+  }
+  .hero .cta a{
+    display:inline-block;
+    margin-right:14px;
+    padding:11px 22px;
+    border-radius:4px;
+    font-weight:600;
+    font-size:0.95rem;
+  }
+  .cta .primary{
+    background:var(--accent);
+    color:#0d1117;
+  }
+  .cta .primary:hover{background:var(--accent-bright); color:#0d1117;}
+  .cta .secondary{
+    border:1px solid var(--border);
+    color:var(--text);
+  }
+  .cta .secondary:hover{border-color:var(--accent-bright); color:var(--accent-bright);}
+
+  section{
+    max-width:900px;
+    margin:0 auto;
+    padding:36px 24px;
+    border-top:1px solid var(--border);
+  }
+  .section-label{
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    font-size:0.78rem;
+    color:var(--accent-bright);
+    margin:0 0 18px;
+    font-weight:700;
+  }
+
+  .start-here-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:18px;
+  }
+  .start-card{
+    background:var(--card-bg);
+    border:1px solid var(--border);
+    border-radius:6px;
+    padding:18px 20px;
+  }
+  .start-card .tag{
+    font-size:0.72rem;
+    color:var(--accent-bright);
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+  }
+  .start-card h3{margin:8px 0 8px; font-size:1.05rem;}
+  .start-card p{margin:0; color:var(--muted); font-size:0.92rem;}
+
+  .post-list{margin:0;}
+  .post-item{
+    display:flex;
+    gap:22px;
+    padding:18px 0;
+    border-bottom:1px solid var(--border);
+  }
+  .post-item:last-child{border-bottom:none;}
+  .post-date{
+    flex:0 0 96px;
+    color:var(--muted);
+    font-size:0.85rem;
+    padding-top:3px;
+  }
+  .post-meta h3{margin:0 0 6px; font-size:1.12rem;}
+  .post-meta p{margin:0; color:var(--muted); font-size:0.93rem;}
+
+  .topics{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .topic-pill{
+    display:inline-block;
+    padding:8px 16px;
+    border:1px solid var(--border);
+    border-radius:20px;
+    color:var(--text);
+    font-size:0.88rem;
+  }
+  .topic-pill:hover{border-color:var(--accent-bright); color:var(--accent-bright); text-decoration:none;}
+
+  footer.site-footer{
+    background:var(--footer-bg);
+    padding:32px 24px;
+    margin-top:10px;
+  }
+  .footer-inner{
+    max-width:900px;
+    margin:0 auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  .follow-links a{margin-right:18px; color:var(--muted); font-size:0.9rem;}
+  .follow-links a:hover{color:var(--accent-bright);}
+  .copyright{color:var(--muted); font-size:0.82rem;}
+
+  @media (max-width:640px){
+    .start-here-grid{grid-template-columns:1fr;}
+    .post-item{flex-direction:column; gap:4px;}
+    .post-date{flex:none;}
+  }
+</style>
+</head>
+<body>
+
+<div class="concept-banner">DESIGN CONCEPT PREVIEW — this is a standalone mockup, not wired into the live Jekyll site yet</div>
+
+<header class="site-header">
+  <a class="brand" href="#"><img src="asena-horizontal-logo.svg" alt="Asena Security"></a>
+  <nav class="site-nav">
+    <a href="#latest">Posts</a>
+    <a href="#topics">Topics</a>
+    <a href="#">About</a>
+  </nav>
+</header>
+
+<section class="hero" style="border-top:none;">
+  <h1>Senior cybersecurity perspective. Forged in high-stakes environments.</h1>
+  <p class="mission">Asena Security is authored by a cybersecurity professional whose career spans 20+ years in IT and information security — much of it inside financial institutions where the cost of a misstep is measured in regulatory action and lost trust, not just downtime. The content here serves the full range: startups getting their security foundation right, practitioners at every stage of their career, and the mentees and interns who deserve straight, experience-backed guidance on how this field actually works.</p>
+  <div class="cta">
+    <a class="primary" href="#start-here">Start Here</a>
+    <a class="secondary" href="#latest">Read the Blog</a>
+  </div>
+</section>
+
+<section id="start-here">
+  <div class="section-label">New here? Start with these</div>
+  <div class="start-here-grid">
+    <div class="start-card">
+      <div class="tag">Career</div>
+      <h3>Starting Your Cybersecurity Career</h3>
+      <p>What a SOC actually is, why entry-level shift work is the fastest way in, and how to think about the path before you invest thousands of hours.</p>
+    </div>
+    <div class="start-card">
+      <div class="tag">Mentoring</div>
+      <h3>The Learning Hack — Taking It One Step at a Time</h3>
+      <p>How to approach any new security concept or tool without getting overwhelmed — set a goal, then work it in small chunks.</p>
+    </div>
+  </div>
+</section>
+
+<section id="latest">
+  <div class="section-label">Latest Posts</div>
+  <div class="post-list">
+    <div class="post-item">
+      <div class="post-date">Apr 1, 2026</div>
+      <div class="post-meta">
+        <h3><a href="#">Starting Your Cybersecurity Career</a></h3>
+        <p>Understanding the SOC, why shift work is an opportunity, and what to learn before you apply.</p>
+      </div>
+    </div>
+    <div class="post-item">
+      <div class="post-date">Mar 26, 2026</div>
+      <div class="post-meta">
+        <h3><a href="#">The Learning Hack — Taking It One Step at a Time</a></h3>
+        <p>A simple approach to learning any cybersecurity concept without spinning your wheels.</p>
+      </div>
+    </div>
+    <div class="post-item">
+      <div class="post-date">Dec 12, 2025</div>
+      <div class="post-meta">
+        <h3><a href="#">LastPass was breached. Are Password Managers safe?</a></h3>
+        <p>Weighing the real risks of password managers against the alternatives people actually use.</p>
+      </div>
+    </div>
+    <div class="post-item">
+      <div class="post-date">May 28, 2023</div>
+      <div class="post-meta">
+        <h3><a href="#">ChatGPT Resources for IT and Cyber</a></h3>
+        <p>A running list of useful AI resources for IT and security work.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="topics">
+  <div class="section-label">Browse by Topic</div>
+  <div class="topics">
+    <a class="topic-pill" href="#">Career &amp; Mentoring</a>
+    <a class="topic-pill" href="#">Passwords &amp; Hygiene</a>
+    <a class="topic-pill" href="#">AI &amp; Security</a>
+    <a class="topic-pill" href="#">Incident Lessons</a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="follow-links">
+      <a href="https://github.com/zenw01f">GitHub</a>
+      <a href="https://twitter.com/zenw01f">Twitter</a>
+      <a href="https://kb.asenasecurity.com">Knowledgebase</a>
+      <a href="#">RSS</a>
+    </div>
+    <div class="copyright">© Asena Security</div>
+  </div>
+</footer>
+
+</body>
+</html>
