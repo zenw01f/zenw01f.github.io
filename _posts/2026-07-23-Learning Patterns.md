@@ -1,5 +1,5 @@
 ---
-title: "Ho Pattern Recognition Has Significatn Weight on Learning New Skills"
+title: "How Pattern Recognition Has Significatn Weight on Learning New Skills"
 excerpt_separator: "<!--more-->"
 classes: wide
 categories:
