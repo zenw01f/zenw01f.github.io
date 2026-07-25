@@ -1,5 +1,5 @@
 ---
-title: "How to Leverage AI to Help in Starting Your Cybersecurity Career"
+title: "Leverage AI to Help Start Your Cybersecurity Career"
 excerpt_separator: "<!--more-->"
 classes: wide
 categories:
